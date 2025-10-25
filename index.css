@@ -1769,11 +1769,11 @@ main{
   .faq{
     display: flex;
     gap: 1rem;
-    font-size: clamp(0.77rem,2vw, 1.2rem);
+    font-size: clamp(0.75rem,2vw, 1.1rem);
   }
 
   .language{
-   font-size: clamp(0.77rem,2vw, 1.2rem); 
+   font-size: clamp(0.75rem,2vw, 1.1rem); 
   }
 
   .logo{
@@ -2049,6 +2049,7 @@ main{
     justify-content: center;
   }
 }
+
 
 
 
